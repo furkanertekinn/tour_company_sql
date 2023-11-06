@@ -40,7 +40,7 @@
 
 ## '7.Adım'
 ### Şirkette 65 yaş üstüne %15 indirim olduğu için sık sık ekrana 65 yaşından büyük turistleri getirmek gerekmektedir. Bunun için ise sadece görüntüden ibaret olan Views'ı kullandım. Her seferinde bu uzun sorguyu yazmak yerine, sorguyu bir View haline getirerek daha kullanışlı bir yapı oluşturdum. Ek olarak Views'larda insert, update, delete komutları kullanılmaz.
-<>![Screenshot 2023-11-06 223840](https://github.com/furkanertekinn/tour_company_sql/assets/96014529/2f116575-6475-4724-b3ab-8342760cee38)
+<>![Screenshot 2023-11-06 225804](https://github.com/furkanertekinn/tour_company_sql/assets/96014529/5091dc0e-a647-44de-86cc-cffeaf068f62)
 
 <>![Screenshot 2023-11-06 223921](https://github.com/furkanertekinn/tour_company_sql/assets/96014529/686b31bb-e7d4-4e8f-8530-7fef90f5f13b)
 
