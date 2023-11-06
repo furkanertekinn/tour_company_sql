@@ -1,1 +1,1 @@
-# SQL Bootcamp'inde Yaptığım Bitirme Projesi
+# Techcareer SQL Bootcamp Bitirme Projesi
