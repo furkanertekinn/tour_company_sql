@@ -1,1 +1,1 @@
-# tour_company_sql
+# SQL Bootcamp'inde Yaptığım Bitirme Projesi
