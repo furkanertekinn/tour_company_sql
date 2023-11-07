@@ -53,7 +53,7 @@
 
 ![Screenshot 2023-11-07 100756](https://github.com/furkanertekinn/tour_company_sql/assets/96014529/ed23b200-ed94-4043-bc74-7c795916be69)
 
-## ``9.Adım`
+## `9.Adım`
 ### Bu arada Conductors, Places, Tours tablolarında Status olarak aktif(A) veya pasif(P) durumlarını belli etmek istedim. Çünkü herhangi bir veriyi silmek yerine pasif hale çekmek daha iyi olacaktı. Bu sayede tutulan rehberler, rağbet gören turlar, seçilebilecek bölgeler gibi seçenekler orataya daha net çıkacaktır. Ek olarak da 6.Adımda Status'lara da Stored Procedures yazdığımı görebilirsiniz.
 
 ![Screenshot 2023-11-07 101634](https://github.com/furkanertekinn/tour_company_sql/assets/96014529/71d74297-f35d-40e9-9d78-a2d5c3b6850c)
