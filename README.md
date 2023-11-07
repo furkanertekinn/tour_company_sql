@@ -20,7 +20,7 @@
 ### Gerçekleştirdiğimiz adımlar sonrasında Database Diagramını oluşturdum. Tabloları birbiriyle ilişkilendirdim. FK'leri belirledim.
 ![Screenshot 2023-11-06 173000](https://github.com/furkanertekinn/tour_company_sql/assets/96014529/4bc6e3d1-8dbd-4596-ba1f-486e1dc7014f)
 
-
+![image](https://github.com/furkanertekinn/tour_company_sql/assets/96014529/eb1cad32-6e74-463a-9750-9f016b4b7849)
 
 ## `5.Adım`
 ### Tablolara veri girişi yaptım. Bunları gerçekleştirirken komutları kullanmak benim için tabi ki önemli oldu. Insert, update, delete...
